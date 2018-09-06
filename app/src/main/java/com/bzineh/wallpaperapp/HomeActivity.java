@@ -28,7 +28,7 @@ public class HomeActivity extends AppCompatActivity
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         toolbar.setTitle("EDMT Wallpaper");
         setSupportActionBar(toolbar);
-
+//sdfsdf
 
         viewPager = (ViewPager)findViewById(R.id.view);
 
